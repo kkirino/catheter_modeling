@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+*.RData
+.Ruserdata
+*.xlsx
+README_cache/*
+*.Rdata
